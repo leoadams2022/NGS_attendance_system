@@ -1,0 +1,3395 @@
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/attendance.cont.php?
+line = 84
+09/02/2023 22:59:22
+
+SELECT ,,,,,, FROM `attendance` WHERE day_date = '2023-02-09' 
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',,,,, FROM `attendance` WHERE day_date = '2023-02-09'' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/attendance.cont.php?
+line = 84
+09/02/2023 23:03:58
+
+SELECT ,,,,,, FROM `attendance` WHERE day_date = '2023-02-09' 
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',,,,, FROM `attendance` WHERE day_date = '2023-02-09'' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/attendance.cont.php?
+line = 84
+09/02/2023 23:04:21
+
+SELECT ,,,,,, FROM `attendance` WHERE day_date = '2023-02-09' 
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',,,,, FROM `attendance` WHERE day_date = '2023-02-09'' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/attendance.cont.php?
+line = 84
+09/02/2023 23:07:28
+
+SELECT ,,,,,, FROM `attendance` WHERE day_date = '2023-02-09' 
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',,,,, FROM `attendance` WHERE day_date = '2023-02-09'' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/attendance.cont.php?
+line = 84
+09/02/2023 23:07:29
+
+SELECT ,,,,,, FROM `attendance` WHERE day_date = '2023-02-01' 
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',,,,, FROM `attendance` WHERE day_date = '2023-02-01'' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:30:32
+
+SELECT * FROM 'attendance' WHERE MONTH(day_date) = 1
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''attendance' WHERE MONTH(day_date) = 1' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:39:01
+
+SELECT * FROM `attendance` WHERE MONTH(day_date) = select *
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select *' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:39:42
+
+SELECT * FROM `attendance` WHERE MONTH(day_date) = select *
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select *' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:46:44
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:49:02
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:51:24
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:52:31
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:53:32
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:55:23
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:56:37
+
+00000
+
+
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+11/02/2023 00:58:44
+
+SELECT * FROM `attendance` WHERE MONTH(day_date) = ?
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/test_cont.php?
+line = 84
+13/02/2023 18:39:56
+
+SELECT * FROM `attendance` WHERE MONTH(day_date) = 2 AND `user_name` = walidali AND `user_id` = 12
+42S22
+1054
+Unknown column 'walidali' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:47
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:52
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:52
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:53
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:54
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:55
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:56
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:56
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:57
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:57
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:58
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:58
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:59
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:52:59
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:01
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:01
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:02
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:02
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:03
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:03
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:04
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:04
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:05
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:05
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:06
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:06
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:07
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:07
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:08
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:08
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:09
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:09
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:10
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:11
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:12
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:12
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:13
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:13
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:14
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:14
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:15
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:15
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:16
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:16
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:17
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:17
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:18
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:18
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:19
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:19
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:20
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:20
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:21
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:21
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:22
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:22
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:23
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:23
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:24
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:24
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:25
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:25
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:26
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:26
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:27
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:27
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:28
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:29
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:29
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:30
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:30
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:31
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:31
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:32
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:32
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:34
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:34
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:35
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:35
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:36
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:36
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:37
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:37
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:38
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:38
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:39
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:40
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:40
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:41
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:41
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:42
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:42
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:43
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:43
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:43
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:44
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:45
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:46
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:47
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:47
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:47
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:49
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:49
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:50
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:51
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:51
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:52
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:53
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:53
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:55
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:56
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:56
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:56
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:56
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:57
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:57
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:57
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:57
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:58
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:59
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:59
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:53:59
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:00
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:01
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:01
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:03
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:03
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:05
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:05
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:08
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:08
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:10
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:10
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:10
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:10
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:11
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:11
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:12
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:12
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:13
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:13
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:15
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:15
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:16
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:16
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:17
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:17
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:18
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:18
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:20
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:20
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:20
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:20
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:20
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:21
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:21
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:21
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:22
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:22
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:23
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:23
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:24
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:25
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:26
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:26
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:26
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:26
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:27
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:27
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:27
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:27
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:29
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:29
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:30
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:30
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:30
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:30
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:31
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:31
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:34
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:34
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:35
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:35
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:35
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:35
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:36
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:36
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:36
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:36
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:38
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:38
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:39
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:39
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:39
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:39
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:40
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:41
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:41
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:41
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:43
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:43
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:44
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:44
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:46
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:46
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:48
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:49
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:54
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:54
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:55
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:54:55
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:00
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:01
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:01
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:01
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:01
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:02
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:03
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:03
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:03
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:03
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:05
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:05
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:06
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:06
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:07
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:07
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:08
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:08
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:09
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:09
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:10
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:10
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:11
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:11
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:12
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:12
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:13
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:13
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:14
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:14
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:14
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:14
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:15
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:15
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:15
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:16
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:16
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:16
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:17
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:17
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:18
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:19
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:20
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:20
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:21
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:21
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:22
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:22
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:22
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:22
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:24
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:24
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:26
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:26
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:27
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:28
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:28
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:29
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:29
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:29
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:29
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:30
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:30
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:30
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:30
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:31
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:31
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:32
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:32
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:33
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:34
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:35
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:35
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:36
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:37
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:37
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:37
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:38
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:39
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:39
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:39
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:40
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:41
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:41
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:41
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:42
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:42
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:43
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:43
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:44
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:45
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:49
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:49
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:50
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:50
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:51
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:52
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:53
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:54
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:54
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:54
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:55
+
+SELECT id,recipient,status,msg,auther,created_at,date_send FROM `announcements` WHERE campaign = 'ngs' AND status = 'no' 
+42S22
+1054
+Unknown column 'campaign' in 'where clause'
+
+C:/xampp/htdocs/MyProject/LoginAgain/controlar/announcements.cont.php?
+line = 84
+20/02/2023 17:55:55
+
+SELECT id,msg,auther,date_send,campaign FROM `announcements` WHERE campaign = 'ngs' 
+42S22
+1054
+Unknown column 'campaign' in 'field list'
+

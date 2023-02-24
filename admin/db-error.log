@@ -1,0 +1,9 @@
+C:/xampp/htdocs/MyProject/LoginAgain/admin/test.php?username=broUS&userid=17&month=2
+line = 90
+24/02/2023 00:56:36
+
+SELECT `day_date`, `is_it_over`, `time_in`, `time_out` FROM `attendance` WHERE MONTH(day_date) =  AND `user_name` = 'walid888' AND `user_id` = 11 ORDER BY `day_date`
+42000
+1064
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `user_name` = 'walid888' AND `user_id` = 11 ORDER BY `day_date`' at line 1
+

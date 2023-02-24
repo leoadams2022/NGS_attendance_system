@@ -1,0 +1,4 @@
+i have changed the :
+    unsecuredCopyToClipboard('#msg_${msg.id}') at the admin announcements pages
+    i have changed how the announcement works by adding the campign to tha data base
+     in the announcement.cont and the announcement.class as well  
