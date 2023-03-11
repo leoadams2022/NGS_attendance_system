@@ -1,9 +1,0 @@
-C:/xampp/htdocs/MyProject/LoginAgain/admin/controlar/attendance.cont.admin.php?
-line = 90
-24/02/2023 23:41:30
-
-INSERT INTO attendance (time_in,time_out)VALUES)
-42000
-1064
-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
-
